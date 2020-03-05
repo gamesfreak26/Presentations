@@ -11,3 +11,7 @@
 * October 8 2019 [Ada Lovelace Day: STEM for the ages](https://www.eventbrite.com.au/e/ada-lovelace-day-stem-for-the-ages-tickets-72196889841) _How Networking paid off_
 
 * October 23 2019 [.NET Tour - Down Under Edition (Evening Session)](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/) _Introduction to AR_
+
+## 2019
+### March
+* March 5 2019 [Brisbane PyLadies](https://www.meetup.com/BrisbanePyLadies/events/268821779/) _Introduction to AR_
