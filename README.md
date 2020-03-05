@@ -12,6 +12,6 @@
 
 * October 23 2019 [.NET Tour - Down Under Edition (Evening Session)](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/) _Introduction to AR_
 
-## 2019
+## 2020
 ### March
-* March 5 2019 [Brisbane PyLadies](https://www.meetup.com/BrisbanePyLadies/events/268821779/) _Introduction to AR_
+* March 5 2020 [Brisbane PyLadies](https://www.meetup.com/BrisbanePyLadies/events/268821779/) _Introduction to AR_
